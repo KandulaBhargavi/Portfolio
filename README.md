@@ -1,2 +1,2 @@
 # Portfolio
-Personel Portfolio WEbsite
+Personel Portfolio Website
